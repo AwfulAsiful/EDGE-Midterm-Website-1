@@ -8,7 +8,7 @@
 ## Screenshot
 ![Paint Landing Page Screenshot](./desktop/ss.png)
 
-> *Replace `path-to-screenshot.png` with the actual file path once the screenshot is uploaded to your repository.*
+> *Screenshot*
 
 ## Features
 - **Fully Responsive**: Ensures an optimal viewing experience on all screen sizes.
